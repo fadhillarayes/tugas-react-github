@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2fd99f6.chunk.css",
+    "main.js": "/static/js/main.4c8a01bc.chunk.js",
+    "main.js.map": "/static/js/main.4c8a01bc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b56da00c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b56da00c.js.map",
+    "static/css/2.d44d9e5f.chunk.css": "/static/css/2.d44d9e5f.chunk.css",
+    "static/js/2.b6c061d2.chunk.js": "/static/js/2.b6c061d2.chunk.js",
+    "static/js/2.b6c061d2.chunk.js.map": "/static/js/2.b6c061d2.chunk.js.map",
+    "static/js/3.9745f976.chunk.js": "/static/js/3.9745f976.chunk.js",
+    "static/js/3.9745f976.chunk.js.map": "/static/js/3.9745f976.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d44d9e5f.chunk.css.map": "/static/css/2.d44d9e5f.chunk.css.map",
+    "static/css/main.b2fd99f6.chunk.css.map": "/static/css/main.b2fd99f6.chunk.css.map",
+    "static/js/2.b6c061d2.chunk.js.LICENSE.txt": "/static/js/2.b6c061d2.chunk.js.LICENSE.txt",
+    "static/media/blog.1ecf2508.jpeg": "/static/media/blog.1ecf2508.jpeg",
+    "static/media/bookreview1.9851bb1a.jpeg": "/static/media/bookreview1.9851bb1a.jpeg",
+    "static/media/bookreview3.dfeb6d88.jpeg": "/static/media/bookreview3.dfeb6d88.jpeg",
+    "static/media/dell1.27b8ffbc.jpg": "/static/media/dell1.27b8ffbc.jpg",
+    "static/media/dell2.c19e8ace.jpg": "/static/media/dell2.c19e8ace.jpg",
+    "static/media/dell3.d3e8be9f.jpg": "/static/media/dell3.d3e8be9f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b56da00c.js",
+    "static/css/2.d44d9e5f.chunk.css",
+    "static/js/2.b6c061d2.chunk.js",
+    "static/css/main.b2fd99f6.chunk.css",
+    "static/js/main.4c8a01bc.chunk.js"
+  ]
+}
